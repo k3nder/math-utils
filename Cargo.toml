@@ -2,6 +2,15 @@
 name = "math-utils"
 version = "0.1.0"
 edition = "2021"
+authors = ["k3nder"]
+rust-version = "1.71.0"
+description = "math utils for rust"
+documentation = "https://github.com"
+readme = "README.md"
+homepage = "https://github.com"
+repository = "https://github.com/k3nder/mclr.git"
+license = "Apache-2.0"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
